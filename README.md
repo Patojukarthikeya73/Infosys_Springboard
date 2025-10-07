@@ -1,4 +1,5 @@
 CodeGenie AI Explainer and Code Generator
+
 Overview
 This project is a comprehensive pipeline designed to analyze, explain, and semantically represent Python code snippets using advanced NLP transformer models. The system integrates parsing, structural analysis, embedding generation, and visualization, aiming to enhance understanding and usability of source code by both humans and machines.
 
