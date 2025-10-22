@@ -56,7 +56,7 @@ To parse source code into a structured, machine-understandable format for furthe
 
 ---
 
-## 🧠 MODULE 2 — AI-Based Code Explanation and Summarization
+## 🧠 MODULE 2 — Code Explanation and Summarization
 
 ### 🎯 Objective
 To generate **human-readable explanations and summaries** of source code using AI and NLP techniques.
